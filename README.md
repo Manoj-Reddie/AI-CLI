@@ -24,6 +24,14 @@ Install the necessary dependencies:
 npm install
 ```
 
+## Configuration
+To Use AI-CLI you must get a Gemini API key
+- Create a file `.env` in root directory
+- Add your Gemini API Key in it
+ ```bash
+GEMINI_API=your_api_key_here
+ ```
+
 ## Usage
 
 To start using AI-CLI, run the following command:
